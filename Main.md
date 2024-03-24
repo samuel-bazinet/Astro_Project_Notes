@@ -15,3 +15,7 @@
 * [[STEREO]]
 * [[Wind]]
 
+
+# Order of script
+1. Start with parker solar probe [[PSP Script]]
+2. Pick the 4 most interesting missions (maybe more if we cannot talk about some of them for long enough)

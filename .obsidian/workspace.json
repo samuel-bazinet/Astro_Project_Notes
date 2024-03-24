@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "901cda035373add8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "945a507616fc2416",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Parker Solar Probe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Parker Solar Probe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Parker Solar Probe.md"
               }
             }
           }
@@ -158,20 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "901cda035373add8",
+  "active": "945a507616fc2416",
   "lastOpenFiles": [
-    "Parker Solar Probe.md",
     "Main.md",
+    "Parker Solar Probe.md",
+    "PSP Script.md",
+    "Hinode.md",
+    "Ace.md",
     "Wind.md",
     "STEREO.md",
     "SolO.md",
     "SDO.md",
     "SOHO.md",
     "Iris.md",
-    "Hinode.md",
     "Dscovr.md",
     "Chase.md",
-    "Aditya-L1.md",
-    "Ace.md"
+    "Aditya-L1.md"
   ]
 }

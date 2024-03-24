@@ -1,1 +1,1 @@
-(https://en.wikipedia.org/wiki/Hinode_(satellite))
+https://en.wikipedia.org/wiki/Hinode_(satellite)
