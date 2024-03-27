@@ -38,8 +38,10 @@ In December of 2019, the first four papers using the probe's data were released.
 
 The probe also discovered a cosmic dust-free zone of 56. million kilometers from the Sun. This is due to the intense radiation at this distance form the Sun.
 
-In April 2021, Parker Solar Probe "touched the Sun". This may sound odd as it is still quite far from the surface of the Sun, but it did cross the Alfven surface, which is the boundary between the corona and the rest of the solar system. They determined that the probe had crossed it by measuring the change in the magnetic field and the particle conditions.
+In April 2021, Parker Solar Probe "touched the Sun". This may sound odd as it is still quite far from the surface of the Sun, but it did cross the Alfven surface, which is the boundary between the corona and the rest of the solar system. They determined that the probe had crossed it by measuring the change in the magnetic field and the particle conditions. They reached that boundary at nearly 19 Solar radii, meaning that the sun is almost 20 times larger than what we can see from Earth!
 
 The probe also discovered 19 sungrazer comets. Those comets are special because their perihelion is so close to the Sun. It is quite amazing that a spacecraft meant to study the Sun also gets to look at objects from the outskirts of our solar system.
 
 # Conclusion
+
+There is still over a year left for the Parker Solar Probe's mission, and there is a ton of data to go through. That alone may take decades to parse and we are very excited to see what we can learn from out neighboring star! 
